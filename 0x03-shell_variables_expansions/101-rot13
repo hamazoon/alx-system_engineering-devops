@@ -1,2 +1,2 @@
-#!/bin/bush
+#!/bin/bash
 tr 'A-Za-z' 'N-Za-Mn-za-m'
